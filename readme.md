@@ -51,6 +51,7 @@ Take a look at some of my featured work and case studies:
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)
 
+---
 
 ## 📈 Some Statistics
 <div>
