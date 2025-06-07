@@ -1,62 +1,43 @@
 # 👋 Hi, I'm Bruno
 
-I'm a Full Stack Software Engineer with over 5 years of experience designing and building scalable, high-performance applications across web and mobile platforms. My work spans the full development lifecycle — from initial requirements gathering and architecture planning to development, deployment, and post-launch support.
+I'm a software engineer with 5+ years of experience building reliable and maintainable applications using TypeScript, Node.js, React and React Native. My current focus is on software architecture, microservices, AI integration, and cloud solutions with AWS.
 
-I thrive in fast-paced, collaborative environments and enjoy solving real-world problems through thoughtful UX, clean code, and reliable systems. Whether on the frontend or backend, I aim to create maintainable, testable, and efficient solutions that bring value to users and teams alike.
-
----
+Passionate about writing clean, testable code and designing systems that scale with clarity and purpose.
 
 ## 🧠 About Me
+
 - 🧑‍💻 5+ years of hands-on experience building end-to-end applications
-- ⚛️ Specializing in React (Web & Native), GraphQL, Node.js, and TypeScript
+- ⚛️ Specializing in Node.js, React (Web & Native), and TypeScript
 - 🧼 Passionate about clean architecture, testing, and scalability
-- 🚀 Advocate for developer experience, team collaboration, and continuous learning
+- 🤖 Exploring the possibilities with AI
+- ☁️ Building cloud-native apps with AWS and serverless tools
+- 🤝 Advocate for developer experience, team collaboration, and continuous learning
 
----
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22"/> Tech Stack
 
-## 🛠 Tech Stack
-
-### 🧩 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🛢 Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🧪 Testing & Standards
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E82F7?style=for-the-badge&logo=data&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nest,express,graphql,react,nextjs,tailwind,jest,postgres,prisma,docker,aws&theme=dark&perline=4" />
+</p>
 
 ## 🌐 Portfolio
 
 Take a look at some of my featured work and case studies:  
 **🔗 [https://brunorocha.vercel.app](https://brunorocha.vercel.app)**
 
----
-
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rocha-a65a49157)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunorocha2674@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white)](https://brunorocha.vercel.app)
 
----
+<a href="https://www.linkedin.com/in/bruno-rocha-a65a49157" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin  />
+</a>
+<a href="mailto:brunorocha2674@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/mail-b200ed.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=mail  />
+</a>
 
 ## 📈 Some Statistics
+
 <div>
   <a href="https://github.com/orochaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orochaa&layout=compact&langs_count=6&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orochaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=orochaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true"/>
   </a>
 </div>
